@@ -1,0 +1,13 @@
+{
+    "lock": {
+        "packages": [
+            {
+                "name": "php",
+                "version": ">=7.4"
+            }
+        ]
+    },
+    "platform": {
+        "php": "7.4.0"
+    }
+}
